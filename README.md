@@ -4,24 +4,36 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-## 📚 Table of Contents
-- [Computer Vision](#computer-vision)
-- [Healthcare Analytics](#healthcare-analytics)
-- [AI Agents](#ai-agents)
+##  Table of Contents
+- [1) Machine Learning](#1-machine-learning)
+- [2) Data Engineering](#2-data-engineering) 
+- [3) Data Analytics](#3-data-analytics)
 
 ---
 
-#  Computer Vision
-| Project Link | Tools | Description |
-|---|---|---|
-| [ Real-Time Expression Detection](https://github.com/harshxth/Real-Time-Expression-Detection) | OpenCV, Keras, TensorFlow | CNN-based real-time facial expression recognition from video streams using FER2013 dataset. |
+# 1) Machine Learning {#1-machine-learning}
 
-#  Healthcare Analytics
+##  Computer Vision
 | Project Link | Tools | Description |
 |---|---|---|
-| [ Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas, matplotlib | ML regression models to predict patient length-of-stay from admission data for resource optimization. |
+| [ Real-Time Expression Detection](https://github.com/harshxth/Real-Time-Expression-Detection) | OpenCV, Keras, TensorFlow | CNN-based real-time facial expression recognition from video streams (FER2013). |
 
-#  AI Agents
+##  Traditional ML
 | Project Link | Tools | Description |
 |---|---|---|
-| [ Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | RAG-powered autonomous agent for healthcare research, data synthesis, and insight generation. |
+| [ Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas | Regression models predicting patient length-of-stay for hospital resource planning. |
+
+##  LLM Agents
+| Project Link | Tools | Description |
+|---|---|---|
+| [ Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | RAG-powered autonomous agent for healthcare research and insight generation. |
+
+---
+
+# 2) Data Engineering {#2-data-engineering}
+*(will push soon: ETL pipelines, Airflow DAGs, data warehouses)*
+
+---
+
+# 3) Data Analytics {#3-data-analytics}
+*(will push soon: PowerBI dashboards, Tableau viz, SQL analysis)*
