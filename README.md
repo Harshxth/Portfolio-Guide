@@ -30,10 +30,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-# 2) Data Engineering {#2-data-engineering}
-*(will push soon: ETL pipelines, Airflow DAGs, data warehouses)*
+## 2) Data Engineering {#2-data-engineering}
+*(ETL pipelines, Airflow, data warehouses will push soon)*
 
 ---
 
-# 3) Data Analytics {#3-data-analytics}
-*(will push soon: PowerBI dashboards, Tableau viz, SQL analysis)*
+## 3) Data Analytics {#3-data-analytics}
+*(PowerBI, Tableau, SQL analysis will push soon)*
