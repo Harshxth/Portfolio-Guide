@@ -1,35 +1,39 @@
 # 🗺 Harshith's Portfolio
 
-Welcome to my data portfolio!
-
-## 📋 Table of Contents
-- [1) Machine Learning](#1-machine-learning)
-- [2) Data Engineering](#2-data-engineering)
-- [3) Data Analytics](#3-data-analytics)
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ---
 
-## 1) Machine Learning {#1-machine-learning}
+## Table of Contents
+- 1) Machine Learning
+- 2) Data Engineering
+- 3) Data Analytics
 
-### Computer Vision
-| Project | Tools | Description |
-|---|---|---|
-| [🎬 Real-Time Expression Detection](https://github.com/harshxth/Real-Time-Expression-Detection) | OpenCV, Keras, TensorFlow | Real-time facial expression detection using webcam + CNN trained on FER2013 dataset. [web:1] |
+---
 
-### Traditional ML
-| Project | Tools | Description |
-|---|---|---|
-| [🏥 Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas | ML regression to predict patient length-of-stay from admission data. [web:60] |
+# 1) Machine Learning {#1-machine-learning}
 
-### LLM Agents
-| Project | Tools | Description |
+## Computer Vision
+| Project Link | Tools | Description |
 |---|---|---|
-| [🩺 Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI | RAG-powered AI agent for healthcare research & insights. [web:61] |
+| Real-Time Expression Detection | OpenCV, Keras, TensorFlow | CNN-based real-time facial expression recognition from video streams . |
+
+## Traditional ML
+| Project Link | Tools | Description |
+|---|---|---|
+| Hospital LOS Prediction | scikit-learn, pandas | machine learning model to predict hospital length of stay from 100,000 records. XGBoost performed best, achieving a 0.3032-day MAE and outperforming baseline methods. |
+
+## LLM Agents
+| Project Link | Tools | Description |
+|---|---|---|
+| Healthcare Research Agent | LangChain, OpenAI API | 4-Agent AI system that searches PubMed and creates medical research reports. |
 
 ---
 
 ## 2) Data Engineering {#2-data-engineering}
-*(ETL, Airflow, Spark coming soon)*
+*(ETL pipelines, Airflow, data warehouses will push soon)*
+
+---
 
 ## 3) Data Analytics {#3-data-analytics}
-*(PowerBI, Tableau coming soon)*
+*(PowerBI, Tableau, SQL analysis will push soon)*
