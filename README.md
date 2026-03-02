@@ -1,41 +1,37 @@
 # 🗺 Harshith's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+Welcome to my data portfolio! Documenting ML & Data Science projects.
 
 ---
 
 ## Table of Contents
-*(Click 📋 Outline icon above to jump to sections)*
-
-- 1) [Machine Learning](#1-machine-learning)
-- 2) [Data Engineering](#2-data-engineering)
-- 3) [Data Analytics](#3-data-analytics)
+*(Click 📋 Outline icon for navigation)*
 
 ---
 
-## 1) Machine Learning {#1-machine-learning}
+## 1) Machine Learning
 
 ### Computer Vision
 | Project Link | Tools | Description |
 |---|---|---|
-| [🎬 Real-Time Expression Detection](https://github.com/harshxth/Real-Time-Expression-Detection) | OpenCV, Keras, TensorFlow | **CNN-based real-time facial expression recognition from video streams using FER2013 dataset.** Live emotion detection in webcam feeds. |
+| [🎬 Real-Time Expression Detection](https://github.com/harshxth/Real-Time-Expression-Detection) | OpenCV, Keras, TensorFlow, NumPy | **Real-time facial expression detection using webcam + CNN model trained on Kaggle's Face Expression Recognition dataset (FER2013).** Features live emotion classification (happy, sad, surprise, etc.) with OpenCV face detection. [web:1] |
 
 ### Traditional ML
 | Project Link | Tools | Description |
 |---|---|---|
-| [🏥 Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas | **Regression models predicting patient length-of-stay from admission data for hospital resource planning.** Optimized discharge predictions. |
+| [🏥 Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas, matplotlib | **Predicts hospital length-of-stay using patient admission data and ML regression models.** Focuses on healthcare analytics for resource optimization and discharge planning. [web:60] |
 
 ### LLM Agents
 | Project Link | Tools | Description |
 |---|---|---|
-| [🩺 Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | **RAG-powered autonomous agent for healthcare research and insight generation.** Queries data sources, summarizes findings automatically. |
+| [🩺 Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | **Autonomous AI agent for healthcare research — analyzes medical data, generates insights using LLM reasoning.** RAG pipeline for querying health topics and summarizing evidence-based findings. [web:61] |
 
 ---
 
-## 2) Data Engineering {#2-data-engineering}
-*(ETL pipelines, Airflow, data warehouses will push soon)*
+## 2) Data Engineering
+*(ETL pipelines, Airflow, Spark coming soon)*
 
 ---
 
-## 3) Data Analytics {#3-data-analytics}
-*(PowerBI, Tableau, SQL analysis will push soon)*
+## 3) Data Analytics
+*(PowerBI, Tableau, SQL dashboards coming soon)*
