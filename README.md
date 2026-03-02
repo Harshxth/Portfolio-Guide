@@ -1,17 +1,17 @@
 # 🗺 Harshith's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ---
 
-## 📚 Table of Contents
-- [Machine Learning](#user-content-machine-learning)
-- [Data Engineering](#user-content-data-engineering)
-- [Data Analytics](#user-content-data-analytics)
+## Table of Contents
+- [Machine Learning](#machine-learning)
+- [Data Engineering](#data-engineering)
+- [Data Analytics](#data-analytics)
 
 ---
 
-# Machine Learning {#user-content-machine-learning}
+# Machine Learning {#machine-learning}
 
 ## Computer Vision
 | Project Link | Tools | Description |
@@ -26,14 +26,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## LLM Agents
 | Project Link | Tools | Description |
 |---|---|---|
-| [Healthcare Research Agent](https://github.com/harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | 4-Agent AI system searching PubMed to create medical research reports. |
+| [Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | 4-Agent AI system searching PubMed to create medical research reports. |
 
-***
+---
 
-## Data Engineering {#user-content-data-engineering}
+## Data Engineering {#data-engineering}
 *(ETL pipelines, Airflow, data warehouses coming soon)*
 
-***
+---
 
-## Data Analytics {#user-content-data-analytics}
+## Data Analytics {#data-analytics}
 *(PowerBI, Tableau, SQL analysis coming soon)*
