@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-# Machine Learning {#machine-learning}
+# Machine Learning 
 
 ## Computer Vision
 | Project Link | Tools | Description |
@@ -30,10 +30,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-## Data Engineering {#data-engineering}
+## Data Engineering 
 *(ETL pipelines, Airflow, data warehouses coming soon)*
 
 ---
 
-## Data Analytics {#data-analytics}
+## Data Analytics 
 *(PowerBI, Tableau, SQL analysis coming soon)*
