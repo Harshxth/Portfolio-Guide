@@ -1,5 +1,4 @@
 # 🗺 Harshith's Portfolio
-
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ---
@@ -23,9 +22,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | [Hospital LOS Prediction](https://github.com/Harshxth/Hospital-LOS-Prediction) | scikit-learn, pandas | ML model predicting hospital length of stay from 100k records. XGBoost achieved 0.3032-day MAE, beating baselines. |
 
-## LLM Agents
+## LLM & RAG
 | Project Link | Tools | Description |
 |---|---|---|
+| [PDF RAG Chatbot](https://github.com/Harshxth/pdf-rag-chatbot) | LangChain, ChromaDB, Ollama, Streamlit, Docker | Fully local RAG pipeline to chat with multiple PDFs. Chunks documents into embeddings, retrieves semantically similar context, and generates grounded answers with page-level source citations. No API costs — runs entirely on-device via Ollama. |
 | [Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | 4-Agent AI system searching PubMed to create medical research reports. |
 
 ---
