@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Tools | Description |
 |---|---|---|
 | [PDF RAG Chatbot](https://github.com/Harshxth/pdf-rag-chatbot) | LangChain, ChromaDB, Ollama, Streamlit, Docker | Fully local RAG pipeline to chat with multiple PDFs. Chunks documents into embeddings, retrieves semantically similar context, and generates grounded answers with page-level source citations. No API costs — runs entirely on-device via Ollama. |
-| [Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API | 4-Agent AI system searching PubMed to create medical research reports. |
+| [Healthcare Research Agent](https://github.com/Harshxth/Healthcare-Research-Agent) | LangChain, OpenAI API, Streamlit, Docker | 4-Agent AI system searching PubMed to create medical research reports. |
 
 ---
 
